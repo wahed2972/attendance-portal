@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 atvenv
+
+#secret key
+.env
+
+.streamlit
